@@ -1,0 +1,24 @@
+.user-profile {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px;
+    margin: 20px auto;
+    background-color: #fff;
+}
+
+.user-profile h2 {
+    text-align: center;
+    color: #333;
+}
+
+.user-profile p {
+    font-size: 18px;
+    color: #555;
+    margin: 10px 0;
+}
+
+.user-profile p span {
+    font-weight: bold;
+    color: #333;
+}

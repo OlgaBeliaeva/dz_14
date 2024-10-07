@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { connect } from 'react-redux';
 import { setUserInfo } from './redux/actions';
+import './UserForm.css';  // Подключаем стили
 
 // Компонент формы для редактирования информации о пользователе
 const UserForm = ({ setUserInfo }) => {

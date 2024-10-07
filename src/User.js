@@ -1,5 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
+import './User.css';  // Подключаем стили
 
 // Компонент для отображения информации о пользователе
 const User = ({ name, status }) => {
